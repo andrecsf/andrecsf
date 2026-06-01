@@ -1,8 +1,11 @@
 # Olá, eu sou André Salgado 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
 💻 Focado em Desenvolvimento de Software e Banco de Dados
+
 📚 Estudando Python, SQL, JavaScript e Desenvolvimento Web
+
 🚀 Em busca da primeira oportunidade para aplicar e expandir meus conhecimentos
 
 <div align="center">
