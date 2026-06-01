@@ -1,20 +1,22 @@
-# André Salgado <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Olá, eu sou André Salgado 👋
 
-Eu sou <strong>André</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
-
-- 🚀 Atualmente estou aprendendo: <strong>Python</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Português ou Inglês</strong>
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Focado em Desenvolvimento de Software e Banco de Dados
+📚 Estudando Python, SQL, JavaScript e Desenvolvimento Web
+🚀 Em busca da primeira oportunidade para aplicar e expandir meus conhecimentos
 
 <div align="center">
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+  <a href="mailto:andrecostasalgadof@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN/](https://www.linkedin.com/in/andr%C3%A9-salgado-8652ba269/)">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <a href="[https://github.com/SEU_USUARIO](https://github.com/andrecsf)">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 
 </div>
