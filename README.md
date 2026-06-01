@@ -10,15 +10,15 @@
 
 <div align="center">
 
-  <a href="mailto:andrecostasalgadof@gmail.com">
+  <a href="mailto:andrecostasalgadof@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/andr%C3%A9-salgado-8652ba269/">
+  <a href="https://www.linkedin.com/in/andr%C3%A9-salgado-8652ba269/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://github.com/andrecsf">
+  <a href="https://github.com/andrecsf" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
